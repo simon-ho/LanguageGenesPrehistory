@@ -20,4 +20,4 @@ If you would like to follow this tutorial on your own laptop, please install the
 
 The [data set](https://github.com/KonstantinHoffmann/LanguagePhylogenies/raw/master/data/cpacific.nex) that will be analysed in the tutorial can be downloaded via the link on the left-hand side of the tutorial page. 
 
-If you have any questions about this component of the workshop, please contact Simon Ho (simon.ho@sydney.edu.au).
+If you have any questions about this component of the workshop, please contact Simon Ho (simon.ho@sydney.edu.au). If you are interested in learning more about phylogenetics, you are welcome to apply to register for the Sydney Phylogenetics Workshop. This is a free 2-day workshop that is held annually at the University of Sydney; the next will be held on 15–16 July 2019. To find out more, visit the [Sydney Phylogenetics Workshop page](https://sydney.edu.au/science/biology/meep/workshops/) or [download a flyer](https://sydney.edu.au/science/biology/meep/documents/spw_flyer.pdf). 
