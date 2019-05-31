@@ -10,14 +10,14 @@ For more information contact Carl Bodnaruk (carl.bodnaruk@sydney.edu.au)
 
 ## Hands-on exercise
 
-After lunch, Simon Ho will work through a tutorial entitled [Language Phylogenies](https://taming-the-beast.org/tutorials/LanguagePhylogenies/) written by Simon Greenhill and Konstantin Hoffman from the Max Planck Institute for the Science of Human History. 
+After lunch, Simon Ho will work through a tutorial on [Language Phylogenies](https://taming-the-beast.org/tutorials/LanguagePhylogenies/), written by Simon Greenhill and Konstantin Hoffman from the Max Planck Institute for the Science of Human History. 
 
-The tutorial involves the use of the phylogenetic software [BEAST2](https://www.beast2.org/) to analyse lingustic data from 20 languages in Polynesia. BEAST2 is a complex piece of software and the tutorial is quite heavy on technical detail, but each step will be explained by Simon during the workshop session. 
+The tutorial involves the use of the phylogenetic software [BEAST2](https://www.beast2.org/) to analyse lingustic data from 20 languages in Polynesia. BEAST2 is a complex piece of software and is primarily used to analyse genetic data. The tutorial is quite heavy on technical detail, but each step will be explained by Simon during the workshop session. 
 
-If you would like to follow this tutorial on your own laptop, please install the following software in advance. All of these are free to download and should work on all platforms (Mac, Windows, and Unix).
+If you would like to follow this tutorial on your own laptop, please install the following software before coming to the workshop. All of these are free to download and should work on all platforms (Mac, Windows, and Unix).
 - [BEAST2](http://www.beast2.org/) - please also install the packages mentioned in the tutorial section "Installing necessary packages"
 - [Tracer](http://beast.community/tracer)
 
 The [data set](https://github.com/KonstantinHoffmann/LanguagePhylogenies/raw/master/data/cpacific.nex) that will be analysed in the tutorial can be downloaded via the link on the left-hand side of the tutorial page. 
 
-If you have any questions about this component of the workshop, please contact Simon Ho (simon.ho@sydney.edu.au). If you are interested in learning more about phylogenetics, you are welcome to apply to register for the Sydney Phylogenetics Workshop. This is a free 2-day workshop that is held annually at the University of Sydney; the next will be held on 15–16 July 2019. To find out more, visit the [Sydney Phylogenetics Workshop page](https://sydney.edu.au/science/biology/meep/workshops/) or [download a flyer](https://sydney.edu.au/science/biology/meep/documents/spw_flyer.pdf). 
+If you have any questions about this component of the workshop, please contact Simon Ho (simon.ho@sydney.edu.au). If you are interested in learning more about phylogenetics, you are welcome to apply to register for the [Sydney Phylogenetics Workshop](https://sydney.edu.au/science/biology/meep/workshops/). This is a free 2-day workshop that is held annually at the University of Sydney; the next will be held on 15–16 July 2019. To find out more, please download a [workshop flyer](https://sydney.edu.au/science/biology/meep/documents/spw_flyer.pdf). 
